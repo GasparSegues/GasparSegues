@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GasparSegues
-- 👀 I’m interested in python, ansible, networks, postgis and GIS/QGIS.
-- 🌱 I’m currently learning ansible, fastapi.
+- 🌱 Learning Blazor/dotNET.
+
 
 <!---
 GasparSegues/GasparSegues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
